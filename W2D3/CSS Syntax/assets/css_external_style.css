@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: darksalmon;
+}
+
+h1 {
+    font-size: 38px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+.ingredients-list {
+    list-style: square inside;
+}
+
+.directions-list {
+    list-style: upper-roman inside;
+}
+
+/* it's saying all img inside header should have this property */
+header > img { 
+    width: 100px;
+}
+
+/* select all anchor elements within list elements within unordered list elements and remove
+their underlines*/
+ul li a {
+    text-decoration: none;
+    color: inherit;
+} 
