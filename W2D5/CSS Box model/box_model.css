@@ -1,0 +1,37 @@
+div {
+  height: 60%;
+  width: 60%;
+  padding: 50px;
+  border: 5px solid black;
+}
+
+#first-div {
+  background-color: #39cccc;
+}
+
+#second-div {
+  background-color: #ff4136;
+  box-sizing: border-box;
+}
+
+#third-div {
+  background-color: aquamarine;
+  height: 10%;
+  width: 100%;
+}
+
+.image-1-container {
+  height: 600px;
+  width: 200px;
+  background-color: salmon;
+}
+
+.image-2-container {
+  height: 600px;
+  width: 200px;
+  background-color: salmon;
+}
+
+p {
+  background-color: #7fdbff;
+}
