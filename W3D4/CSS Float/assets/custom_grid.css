@@ -1,0 +1,10 @@
+/* PUT FLUID GRID CODE HERE */
+.cf:after {
+	content: "";
+	clear: both;
+	display: block;
+}
+
+.col {
+	
+}
