@@ -1,0 +1,26 @@
+/* PHASE 9: Forms */
+.form {
+  margin: 0px 0px 20px 0px;
+  display: flex;
+}
+
+.form-thumb {
+}
+
+.form-fieldset {
+  background-color: beige;
+  padding: 20px;
+  width: 500px;
+  margin: 0px 0px 0px 20px;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+}
+
+.input {
+  background-color: white;
+}
+
+.submit {
+  padding: 5px;
+  background-color: lightgreen;
+}
